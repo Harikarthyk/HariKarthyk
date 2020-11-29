@@ -1,6 +1,6 @@
 ### Hello World! This is [Hari Karthikkeyyan](https://vigilant-keller-c956bf.netlify.app/) 👋 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harikarthyk" alt="Harikarthyk" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harikarthyk" alt="Harikarthyk" /> </p> -->
 
 I am a Student pursuing a Bachelor's degree in Information Technology 🎒 from Dr.Mahalingam College of Engineering and Technology , I am Ambitious to kick start my career with an organization that will give me exposure to enhance my skills and knowledge for the mutual benefits.
 
