@@ -1,28 +1,33 @@
 ### Hello World! This is [Hari Karthikkeyyan](https://vigilant-keller-c956bf.netlify.app/) 👋 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harikarthyk" alt="Harikarthyk" /> </p> -->
+
 
 I am a Student pursuing a Bachelor's degree in Information Technology 🎒 from Dr.Mahalingam College of Engineering and Technology , I am Ambitious to kick start my career with an organization that will give me exposure to enhance my skills and knowledge for the mutual benefits.
 
-### Connect with me: 
+### Github statistics
 
-<a href="https://www.linkedin.com/in/harikarthyk/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/harikarthyk">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikarthyk&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harikarthyk&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />
+</p>
 
-<a href="https://github.com/Harikarthyk">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> 
-<a href="https://www.facebook.com/hari.karthyk/">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br>
-<br>
+### Social
 
+> Want to get in touch?
 
 <p align="center">
- <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
+  <a href="https://www.linkedin.com/in/harikarthyk/">
+  <img align="center" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/harikarthyk">
+  <img align="center" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Harikarthyk">
+  <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/hari.karthyk/">
+  <img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 </p>
+</br>
+</br>
+<p align="center">Show some ❤️ by starring some of the repositories!</p>
