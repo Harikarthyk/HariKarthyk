@@ -6,8 +6,9 @@ I am a Student pursuing a Bachelor's degree in Information Technology 🎒 from 
 
 ### Github statistics
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikarthyk&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harikarthyk&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikarthyk&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harikarthyk&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />
 </p>
 
 ### Social
