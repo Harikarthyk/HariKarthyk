@@ -26,8 +26,15 @@ I am a Student pursuing a Bachelor's degree in Information Technology 🎒 from 
 </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/hari.karthyk/">
   <img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://hari-jsmith494.medium.com/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vadorequest" height="30" width="30" />
+  </a>
 </p>
+
+
+<br>
 </br>
-</br>
+
+
 <p align="center">Show some ❤️ by starring some of the repositories!</p>
