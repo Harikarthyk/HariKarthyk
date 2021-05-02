@@ -2,7 +2,7 @@
 
 
 
-I am a Passinate Full Stack Developer , Student pursuing a Bachelor's degree in Information Technology 🎒 from Dr.Mahalingam College of Engineering and Technology
+I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒 from Dr.Mahalingam College of Engineering and Technology
 
 
 ### Social
