@@ -4,6 +4,14 @@
 
 I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒
 
+🔭 I’m currently working on https://github.com/Harikarthyk/E-Commerce-with-Next-
+
+🌱 I’m currently learning Next JS
+
+📝 I regularly write articles on https://hari-jsmith494.medium.com/
+
+📫 How to reach me harikarthyk1407@gmail.com
+
 ### Social
 
 > Want to get in touch?
