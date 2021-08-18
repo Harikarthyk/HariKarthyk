@@ -26,10 +26,6 @@ I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in
 <a href="https://github.com/Harikarthyk">
   <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/hari.karthyk/">
-  <img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-  
 </p>
 
 <!-- <p align="center">
