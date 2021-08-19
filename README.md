@@ -4,7 +4,7 @@
 
 I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒
 
-🔭 I’m currently working on https://github.com/Harikarthyk/E-Commerce-with-Next-
+🔭 I’m currently working on https://github.com/Harikarthyk/Login-Register-with-Next
 
 🌱 I’m currently learning Next JS
 
