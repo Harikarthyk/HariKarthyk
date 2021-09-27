@@ -4,9 +4,9 @@
 
 I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒
 
-🔭 I’m currently working on https://github.com/Harikarthyk/Login-Register-with-Next
+<!-- 🔭 I’m currently working on https://github.com/Harikarthyk/Login-Register-with-Next -->
 
-🌱 I’m currently learning Next JS
+🌱 I’m currently learning AWS(Roles, Storage)
 
 📝 I regularly write articles on https://hari-jsmith494.medium.com/
 
