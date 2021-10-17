@@ -6,7 +6,7 @@ I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in
 
 <!-- 🔭 I’m currently working on https://github.com/Harikarthyk/Login-Register-with-Next -->
 
-🌱 I’m currently learning Agile Product Planning
+🌱 I’m currently learning and working on Woo-Commerce Integeration
 
 📝 I regularly write articles on https://hari-jsmith494.medium.com/
 
