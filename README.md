@@ -2,7 +2,7 @@
 
 
 
-I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒
+I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒 and Intern at Audy Global Enterprise
 
 <!-- 🔭 I’m currently working on https://github.com/Harikarthyk/Login-Register-with-Next -->
 
