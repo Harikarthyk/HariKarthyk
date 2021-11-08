@@ -36,5 +36,4 @@ I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in
 <br>
 </br>
 
-
 <p align="center">Show some ❤️ by starring some of the repositories!</p>
