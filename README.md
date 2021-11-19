@@ -4,7 +4,7 @@
 
 I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒 and ASDE Intern at Audy Global Enterprise Bangalore.
 
-<!-- 🔭 I’m currently working on https://github.com/Harikarthyk/Login-Register-with-Next -->
+🔭 I’m currently learning to built a subscription platform
 
 <!-- 🌱 I’m currently learning and working on Woo-Commerce Integeration -->
 
