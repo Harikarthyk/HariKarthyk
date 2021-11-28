@@ -4,7 +4,7 @@
 
 I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒 and ASDE Intern at Audy Global Enterprise Bangalore.
 
-🔭 I’m currently learning to write documentation with swagger UI
+<!-- 🔭 I’m currently learning to write documentation with swagger UI -->
 
 <!-- 🌱 I’m currently learning and working on Woo-Commerce Integeration -->
 
