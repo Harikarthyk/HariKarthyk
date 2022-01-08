@@ -4,9 +4,9 @@
 
 I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒 and ASDE Intern at Audy Global Enterprise Bangalore.
 
-🔭 I’m currently learning AWS - EC2.
+<!-- 🔭 I’m currently learning AWS - EC2. -->
 
-<!-- 🌱 I’m currently learning and working on Woo-Commerce Integeration -->
+<!-- 🌱 I’m currently learning AW -->
 
 📝 I regularly write articles on https://hari-jsmith494.medium.com/
 
