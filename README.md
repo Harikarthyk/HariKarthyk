@@ -4,7 +4,7 @@
 
 I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒 and ASDE Intern at Audy Global Enterprise Bangalore.
 
-🔭 I’m currently learning Next JS.
+🔭 I’m currently learning React Native Code Push.
 
 <!-- 🌱 I’m currently learning AW -->
 
