@@ -1,4 +1,4 @@
-### Hello World! This is [Hari Karthikkeyyan](https://harikarthyk.xyz/) 👋 
+### Hello World! This is [Hari Karthikkeyyan](https://harikarthyk.com/) 👋 
 
 
 
