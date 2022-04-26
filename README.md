@@ -37,3 +37,7 @@ I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in
 </br>
 
 <!-- <p align="center">Show some ❤️ by starring some of the repositories!</p> -->
+
+  <p align="center">
+   <img  src="https://github-readme-stats.vercel.app/api?username=Harikarthyk&theme=buefy&show_icons=true&count_private=true">
+ </p>
