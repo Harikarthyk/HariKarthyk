@@ -4,7 +4,7 @@
 
 I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒 and ASDE Intern at Audy Global Enterprise Bangalore.
 
-🔭 I’m currently learning and building E Commerce Admin Portal.
+🔭 I’m currently learning and building Handing Media Player Push Notification.
 
 <!-- 🌱 I’m currently learning AW -->
 
