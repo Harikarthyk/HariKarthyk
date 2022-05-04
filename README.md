@@ -2,7 +2,7 @@
 
 
 
-I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒 and ASDE Intern at Audy Global Enterprise Bangalore.
+I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒 and Software Developer at Audy Global Enterprise Bangalore.
 
 🔭 I’m currently learning and building Handing Media Player Push Notification.
 
