@@ -28,16 +28,10 @@ I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in
 </a> &nbsp;&nbsp;&nbsp;
 </p>
 
-<!-- <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikarthyk&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harikarthyk&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />
-</p> -->
-
 <br>
 </br>
-
-<!-- <p align="center">Show some ❤️ by starring some of the repositories!</p> -->
-
-  <p align="center">
+ <p align="center">
    <img  src="https://github-readme-stats.vercel.app/api?username=Harikarthyk&theme=buefy&show_icons=true&count_private=true">
  </p>
+
+<p align="center">Show some ❤️ by starring some of the repositories!</p> 
