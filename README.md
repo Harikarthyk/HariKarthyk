@@ -4,7 +4,7 @@
 
 I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒 and Software Developer at Audy Global Enterprise Bangalore.
 
-🔭 I’m currently learning about the n8n Automation Tool.
+🔭 I’m currently learning Vue, Vite and D3 Graphs 
 
 <!-- 🌱 I’m currently learning AW -->
 
