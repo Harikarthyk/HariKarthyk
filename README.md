@@ -2,9 +2,9 @@
 
 
 
-I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒 and Software Developer at Audy Global Enterprise Bangalore.
+I am a Passionate  Full Stack Developer, Student pursuing a Bachelor's degree in Information Technology 🎒 and Software Developer at AAPNA Info Tech.
 
-🔭 I’m currently learning Cypress.
+🔭 I’m currently Exploring and learning Vue, vite, D3, Cypress .
 
 <!-- 🌱 I’m currently learning AW -->
 
