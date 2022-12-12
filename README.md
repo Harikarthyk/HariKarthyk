@@ -2,7 +2,7 @@
 
 
 
-I am an enthusiastic full-stack developer with a bachelor's degree in Information technology 🎒 and working as a software developer at AAPNA Info Tech.
+I am an enthusiastic full-stack developer with a bachelor's degree in Information technology 🎒 and working as a full stack software developer.
 
 🔭 I’m currently Exploring and learning Vue, vite, D3, Cypress .
 
