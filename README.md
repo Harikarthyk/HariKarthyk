@@ -2,7 +2,7 @@
 
 
 
-I am an enthusiastic full-stack developer with a bachelor's degree in Information technology 🎒 and working as a Full stack software developer.
+I am an enthusiastic Full Stack developer with a bachelor's degree in Information technology 🎒.
 
 🔭 I’m currently Exploring and learning cypress and Jest.
 
