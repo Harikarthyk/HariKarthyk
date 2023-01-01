@@ -8,7 +8,6 @@ I am an enthusiastic Full Stack developer with a bachelor's degree in Informatio
 
 <!-- 🌱 I’m currently learning AW -->
 
-📝 I regularly write articles on https://hari-jsmith494.medium.com/
 
 📫 How to reach me harikarthyk1407@gmail.com
 
