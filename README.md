@@ -4,7 +4,7 @@
 
 I am an enthusiastic Full Stack developer with a bachelor's degree in Information technology 🎒.
 
-🔭 I’m currently Exploring and learning cypress and Jest.
+🔭 I’m currently exploring and typescript in react/react native.
 
 <!-- 🌱 I’m currently learning AW -->
 
