@@ -6,7 +6,6 @@ I am an enthusiastic Full Stack developer with a bachelor's degree in Informatio
 
 🔭 I’m currently learning and exploring typescript in react/react native.
 
-<!-- 🌱 I’m currently learning AW -->
 
 
 📫 How to reach me harikarthyk1407@gmail.com
