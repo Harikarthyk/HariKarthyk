@@ -32,5 +32,9 @@ I am an enthusiastic Full Stack developer with a bachelor's degree in Informatio
  <p align="center">
    <img  src="https://github-readme-stats.vercel.app/api?username=Harikarthyk&theme=buefy&show_icons=true&count_private=true">
  </p>
+ 
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Harikarthyk" alt="GitHub Streak" /></a>
+</p>
 
 <p align="center">Show some ❤️ by starring some of the repositories!</p> 
