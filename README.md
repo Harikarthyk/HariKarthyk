@@ -13,18 +13,13 @@ I am an enthusiastic Full Stack developer with a bachelor's degree in Informatio
 
 ### Social
 
-> Want to get in touch?
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/harikarthyk/">
-  <img align="center" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/harikarthyk/" target="blank" style="text-decoration: none;">
+  <img align="center" alt="Linkdein" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://hari-jsmith494.medium.com/" target="blank">
+  <a href="https://hari-jsmith494.medium.com/" target="blank" style="text-decoration: none;">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vadorequest" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Harikarthyk">
-  <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> &nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
