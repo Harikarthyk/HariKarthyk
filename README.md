@@ -2,4 +2,4 @@
 
 I'm a developer who enjoys working with JavaScript.
 
-[LinkedIn](https://www.linkedin.com/in/harikarthyk/) | [Medium](https://hari-jsmith494.medium.com/)
+[LinkedIn](https://www.linkedin.com/in/harikarthyk/) | [Medium](https://harikarthyk.medium.com/)
