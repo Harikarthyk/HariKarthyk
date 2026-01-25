@@ -1,5 +1,5 @@
-### Hello World! I'm [Hari Karthikkeyyan](https://harikarthyk.com/)
+### Hello World! I'm [Hari Karthikkeyyan](https://harikarthyk.com)
 
-I'm a developer who enjoys working with JavaScript 🖥️
+I'm a developer who enjoys working with JavaScript 🖥️ 
 
 [LinkedIn](https://www.linkedin.com/in/harikarthyk/) | [Medium](https://harikarthyk.medium.com/) | [Near.tl](https://near.tl/harikarthyk)
